@@ -1,7 +1,7 @@
 #  Веб-проект Taski
 ## Описание проекта
 
-Вею-сервис для планирования своих задач
+Веб-сервис для планирования своих задач
 
 ## Технологический стек
 [![Python](https://img.shields.io/badge/-Python-464646?style=flat&logo=Python&logoColor=56C0C0&color=cd5c5c)](https://www.python.org/)
@@ -34,3 +34,8 @@ sudo docker compose -f (file_name_docker-compose.yml) exec backend python manage
 
 sudo docker compose -f (file_name_docker-compose.yml) exec backend cp -r /app/collected_static/. /static/static/
 ```
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> fb172f35bf5aa1bf5aa61723186ab80fc43e9753
