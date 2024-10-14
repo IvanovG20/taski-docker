@@ -34,8 +34,3 @@ sudo docker compose -f (file_name_docker-compose.yml) exec backend python manage
 
 sudo docker compose -f (file_name_docker-compose.yml) exec backend cp -r /app/collected_static/. /static/static/
 ```
-<<<<<<< HEAD
-=======
-
-
->>>>>>> fb172f35bf5aa1bf5aa61723186ab80fc43e9753
